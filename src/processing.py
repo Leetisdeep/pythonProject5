@@ -2,7 +2,7 @@
 def filter_by_state(to_filter:list, state='EXECUTED'):
     only_states = []
     for element in to_filter:
-        if state in element:
+        if state == element['state']:
             only_states.append(element)
 
     return only_states
