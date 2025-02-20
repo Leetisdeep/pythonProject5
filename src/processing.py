@@ -1,7 +1,6 @@
 
 def filter_by_state(to_filter:list, state='EXECUTED') -> list:
     only_states = []
-
     for element in to_filter:
         if state == element['state']:
             only_states.append(element)
