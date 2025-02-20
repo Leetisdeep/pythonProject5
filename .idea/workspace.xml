@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="370cb79e-142b-4830-833f-bfdbbe5fd5c0" name="Changes" comment="pep8 stuff" />
+    <list default="true" id="370cb79e-142b-4830-833f-bfdbbe5fd5c0" name="Changes" comment="fixing stuff with git" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +155,47 @@
       <option name="project" value="LOCAL" />
       <updated>1740039114390</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="pep8 stuff">
+      <option name="closed" value="true" />
+      <created>1740039232372</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740039232372</updated>
+    </task>
+    <task id="LOCAL-00013" summary="pep8 stuff">
+      <option name="closed" value="true" />
+      <created>1740039306947</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1740039306947</updated>
+    </task>
+    <task id="LOCAL-00014" summary="pep8 stuff">
+      <option name="closed" value="true" />
+      <created>1740039321322</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1740039321322</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fixing stuff with git">
+      <option name="closed" value="true" />
+      <created>1740039378938</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1740039378938</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fixing stuff with git">
+      <option name="closed" value="true" />
+      <created>1740039440312</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1740039440312</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +215,7 @@
     <MESSAGE value="fixed some issues with processing module" />
     <MESSAGE value="fixed filter_by_state issue" />
     <MESSAGE value="pep8 stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="pep8 stuff" />
+    <MESSAGE value="fixing stuff with git" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing stuff with git" />
   </component>
 </project>
