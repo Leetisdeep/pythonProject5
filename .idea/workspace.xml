@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="370cb79e-142b-4830-833f-bfdbbe5fd5c0" name="Changes" comment="init" />
+    <list default="true" id="370cb79e-142b-4830-833f-bfdbbe5fd5c0" name="Changes" comment="pep8 stuff">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,21 +21,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Leetisdeep"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Leetisdeep&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Leetisdeep/pythonProject5.git",
-    "accountId": "ecbcd1d3-6477-4798-8d17-1aeb8fa25533"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Leetisdeep/pythonProject5.git&quot;,
+    &quot;accountId&quot;: &quot;ecbcd1d3-6477-4798-8d17-1aeb8fa25533&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2tIOMGitrJi7CrfMdu4W3XhD5e8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,8 +44,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.processing.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "feature__hw"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -71,11 +78,82 @@
       <option name="project" value="LOCAL" />
       <updated>1740036364124</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added processing module">
+      <option name="closed" value="true" />
+      <created>1740037239097</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740037239097</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed some issues with processing module">
+      <option name="closed" value="true" />
+      <created>1740037360301</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740037360301</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed filter_by_state issue">
+      <option name="closed" value="true" />
+      <created>1740038354562</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740038354562</updated>
+    </task>
+    <task id="LOCAL-00005" summary="pep8 stuff">
+      <option name="closed" value="true" />
+      <created>1740038551577</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740038551577</updated>
+    </task>
+    <task id="LOCAL-00006" summary="pep8 stuff">
+      <option name="closed" value="true" />
+      <created>1740038647843</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740038647843</updated>
+    </task>
+    <task id="LOCAL-00007" summary="pep8 stuff">
+      <option name="closed" value="true" />
+      <created>1740038754785</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740038754785</updated>
+    </task>
+    <task id="LOCAL-00008" summary="pep8 stuff">
+      <option name="closed" value="true" />
+      <created>1740038873537</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740038873537</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="added processing module" />
+    <MESSAGE value="fixed some issues with processing module" />
+    <MESSAGE value="fixed filter_by_state issue" />
+    <MESSAGE value="pep8 stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="pep8 stuff" />
   </component>
 </project>
