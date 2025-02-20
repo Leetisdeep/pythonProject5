@@ -7,6 +7,7 @@ def filter_by_state(to_filter:list, state='EXECUTED') -> list:
 
     return only_states
 
+
 def sort_by_date(to_sort:list, decreasing=True) -> list:
     to_sort.sort(key=lambda x: x['date'], reverse=decreasing)
     return to_sort
