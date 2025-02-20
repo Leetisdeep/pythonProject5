@@ -10,4 +10,4 @@ Simple project for now with mainly processing module.
 2.Import scr/processing to your code <br>
 3.Use functions from processing module <br>
 
-[MIT](LICENSE).
+This project is licensed under [LICENSE MIT](LICENSE).
