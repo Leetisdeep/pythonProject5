@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="370cb79e-142b-4830-833f-bfdbbe5fd5c0" name="Changes" comment="fixing stuff with git" />
+    <list default="true" id="370cb79e-142b-4830-833f-bfdbbe5fd5c0" name="Changes" comment="added docstrings">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,7 +197,31 @@
       <option name="project" value="LOCAL" />
       <updated>1740039440312</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="fixing stuff with git">
+      <option name="closed" value="true" />
+      <created>1740039545809</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1740039545809</updated>
+    </task>
+    <task id="LOCAL-00018" summary="black , mypy stuff">
+      <option name="closed" value="true" />
+      <created>1740040174710</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1740040174710</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added docstrings">
+      <option name="closed" value="true" />
+      <created>1740040411438</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1740040411438</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +242,8 @@
     <MESSAGE value="fixed filter_by_state issue" />
     <MESSAGE value="pep8 stuff" />
     <MESSAGE value="fixing stuff with git" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing stuff with git" />
+    <MESSAGE value="black , mypy stuff" />
+    <MESSAGE value="added docstrings" />
+    <option name="LAST_COMMIT_MESSAGE" value="added docstrings" />
   </component>
 </project>
