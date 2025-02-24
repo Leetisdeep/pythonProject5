@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="370cb79e-142b-4830-833f-bfdbbe5fd5c0" name="Changes" comment="(mypy,isort,black,flake8) stuff" />
+    <list default="true" id="370cb79e-142b-4830-833f-bfdbbe5fd5c0" name="Changes" comment="added docstrings">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +43,6 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.example.executor": "Run",
     "Python.processing.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "feature__hw"
@@ -49,7 +50,6 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Aleksandrov.E\AppData\Roaming\Python\Python313\Scripts\pythonProject5\src" />
       <recent name="C:\Users\Aleksandrov.E\AppData\Roaming\Python\Python313\Scripts\pythonProject5" />
     </key>
   </component>
@@ -221,23 +221,7 @@
       <option name="project" value="LOCAL" />
       <updated>1740040411438</updated>
     </task>
-    <task id="LOCAL-00020" summary="added masks and widget from a project before , added tests module">
-      <option name="closed" value="true" />
-      <created>1740124971787</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1740124971787</updated>
-    </task>
-    <task id="LOCAL-00021" summary="(mypy,isort,black,flake8) stuff">
-      <option name="closed" value="true" />
-      <created>1740125120529</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1740125120529</updated>
-    </task>
-    <option name="localTasksCounter" value="22" />
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,8 +244,6 @@
     <MESSAGE value="fixing stuff with git" />
     <MESSAGE value="black , mypy stuff" />
     <MESSAGE value="added docstrings" />
-    <MESSAGE value="added masks and widget from a project before , added tests module" />
-    <MESSAGE value="(mypy,isort,black,flake8) stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="(mypy,isort,black,flake8) stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="added docstrings" />
   </component>
 </project>
